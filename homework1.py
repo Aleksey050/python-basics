@@ -31,7 +31,6 @@ while num >= 1:
         avb = i
 print(avb)
 
-# Добавил коментарий
 # 5) фирмА)
 rev = int(input('Выручка: '))
 cost = int(input('Затраты: '))
